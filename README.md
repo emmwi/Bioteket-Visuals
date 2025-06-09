@@ -28,7 +28,10 @@ A beekeper can:
   - These notes can be filtered on month an year to make it possible for the beekeper to compare notes from previous years for the same Apiary. 
 
 🔍 Add inspections
-  - These inspections can be edited, deleted and compared to previous inspections. 
+  - These inspections can be edited, deleted and compared to previous inspections.
+
+🍯 Add honey harvest
+  - User can add the harvest of honey for specific date as well as for beehive, kg added this year will be shown on overview of each beehive as well as apiary. This feature is also currently not done and under development.
 
 ## ✨During this development, I've had the opportunity to:
 
@@ -43,22 +46,9 @@ A beekeper can:
 ✔ Improve error handling and debugging for a better developer experience.
 
 
-## A few project visuals
-### Staring page
- ![BioteketStartPage](https://github.com/user-attachments/assets/d21e1395-9f54-47fa-9fab-d1f856eeeb6f)
-### User settings, user have an overview of apiaries and hives and also the option to edit names and adress
- ![apixcdxsdsary](https://github.com/user-attachments/assets/133c7a12-c1ac-4450-b18a-834ef650a705)
-### Home page for user, list of apiaries
-![Skärmbild 2025-03-09 193346](https://github.com/user-attachments/assets/74384831-52c0-4375-be99-81c5597e0cab)
-### Overview of hives within one of the apiaries
-![ftg](https://github.com/user-attachments/assets/832d70b2-4fdc-4958-a9f8-4285e0539c79)
-### Overview of notes added for a apiary
-![Skärmbild 2025-03-09 193636](https://github.com/user-attachments/assets/db9c1392-77f5-4998-82e5-f993ea117761)
-### Visual of how it looks while user makes an inspection 
-![Skärmbild 2025-03-09 193815](https://github.com/user-attachments/assets/fc61de4a-eea8-4c5d-989d-5dde73471a2a)
-### Visual of how inspection look as well as how you can compare the latest inspection with a previous one
-![Skärmbild 2025-03-09 193904](https://github.com/user-attachments/assets/5e49d731-7b4e-41c1-9cae-a3a4defb9444)
+## A project visual
 
+![demo-ezgif com-optimize(1)](https://github.com/user-attachments/assets/9d39a681-c896-4fbc-a298-cc6e937c0f6e)
 
 ## 📂Project/file Structure
 <div style="display: flex; gap: 20px;">
