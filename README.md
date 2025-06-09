@@ -48,7 +48,23 @@ A beekeper can:
 
 ## A project visual
 
-![demo-ezgif com-optimize(1)](https://github.com/user-attachments/assets/9d39a681-c896-4fbc-a298-cc6e937c0f6e)
+![demo-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/e9070a91-83c9-4b4a-a90e-2431e93cbea8)
+
+<hr/>
+<hr/>
+
+![demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3fc882be-5eaa-43e7-b416-fc31974066e6)
+
+<hr/>
+<hr/>
+
+![demo-ezgif com-video-to-gif-converter(2)](https://github.com/user-attachments/assets/02a5d2a9-5618-4ce3-a6f2-3224df7aba2a)
+
+<hr/>
+<hr/>
+
+![demo-ezgif com-video-to-gif-converter(3)](https://github.com/user-attachments/assets/754b785e-bf11-4e9f-87dc-80ac0987fcfd)
+
 
 ## 📂Project/file Structure
 <div style="display: flex; gap: 20px;">
@@ -78,25 +94,9 @@ A beekeper can:
 
 ### 💼 LinkedIn: https://www.linkedin.com/in/emma-with-1861a6263/
 
-## Videos of Bi-O-Teket and it's functions
 
 
-https://github.com/user-attachments/assets/06756a4e-67f5-48e0-9d74-dc93146e060d
 
-
-https://github.com/user-attachments/assets/94e18bd2-3d0e-4041-859d-9b62fde10914
-
-
-https://github.com/user-attachments/assets/8fc6030c-c098-4891-8ca0-5ae28ec5fcdc
-
-
-https://github.com/user-attachments/assets/b23b6a7a-2289-4143-9b9e-5a653c23dfbd
-
-
-https://github.com/user-attachments/assets/ed701317-75b9-4f81-b057-536439ba1cc3
-
-
-https://github.com/user-attachments/assets/7ec20cd8-4d2e-4a91-aa5e-1d9c3ecb5449
 
 
 
